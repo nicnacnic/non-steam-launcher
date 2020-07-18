@@ -1,4 +1,5 @@
 Non-Steam Launcher created by nicnacnic
+https://steamcommunity.com/sharedfiles/filedetails/?id=2169786896
 
 ----- Introduction -----
 Some games, especially the ones with launchers, don't work correctly when adding them as a non-steam game.
